@@ -43,10 +43,8 @@ This is a **PDF chatbot app** powered by LLaMA3 (via Groq) that lets you:
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-groq_pdf_chatbot/
-├── app.py                # Main Streamlit app
-├── requirements.txt      # Python dependencies
-├── .env                  # Your Groq API Key (not tracked by Git)
+<img width="271" height="112" alt="image" src="https://github.com/user-attachments/assets/ee1f08ee-3d29-4039-8026-ecb2e361d322" />
+
           
 
 Steps:
