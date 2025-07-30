@@ -47,7 +47,7 @@ groq_pdf_chatbot/
 ├── app.py                # Main Streamlit app
 ├── requirements.txt      # Python dependencies
 ├── .env                  # Your Groq API Key (not tracked by Git)
-└── screenshots/          # Demo images (optional)
+          
 
 Steps:
 1. Clone the project
