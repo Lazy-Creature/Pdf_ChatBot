@@ -1,5 +1,5 @@
 # 📄 Chat with PDF using Groq + LLaMA3 + Streamlit
-
+<img width="271" height="112" alt="image" src="https://github.com/user-attachments/assets/ee1f08ee-3d29-4039-8026-ecb2e361d322" />
 
 This is a **PDF chatbot app** powered by LLaMA3 (via Groq) that lets you:
 
@@ -41,34 +41,12 @@ This is a **PDF chatbot app** powered by LLaMA3 (via Groq) that lets you:
 | HuggingFace    | Sentence Embeddings         |
 | dotenv         | Secret management           |
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<img width="271" height="112" alt="image" src="https://github.com/user-attachments/assets/ee1f08ee-3d29-4039-8026-ecb2e361d322" />
+# Importent: .env file is should be filled with API key .
 
           
 
-Steps:
-1. Clone the project
-git clone https://github.com/your-username/groq-pdf-chatbot.git
-cd groq-pdf-chatbot
-
-2. Create and activate a virtual environment
-For Windows:
-python -m venv venv
-venv\Scripts\activate
-
-3. Install dependencies
-pip install -r requirements.txt
-
-4. Get your Groq API Key
- 👉 Go to https://console.groq.com/keys
- 👉 Copy your API key
-
-5. Create .env file and add your Groq key
-echo GROQ_API_KEY=your_groq_api_key_here > .env
-
-6. Run the Streamlit app
-streamlit run app.py
 
 
 
