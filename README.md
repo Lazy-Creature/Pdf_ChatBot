@@ -43,7 +43,7 @@ This is a **PDF chatbot app** powered by LLaMA3 (via Groq) that lets you:
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Importent: .env file is should be filled with API key .
+# Importent: Add API key in .env 
 
           
 
