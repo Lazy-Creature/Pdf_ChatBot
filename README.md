@@ -1,15 +1,6 @@
 # 📄 Chat with PDF using Groq + LLaMA3 + Streamlit
 <img width="271" height="112" alt="image" src="https://github.com/user-attachments/assets/ee1f08ee-3d29-4039-8026-ecb2e361d322" />
 
-This is a **PDF chatbot app** powered by LLaMA3 (via Groq) that lets you:
-
-- Upload a PDF
-- Ask questions about its content
-- Chat naturally with memory
-- Use open-source embeddings and fast inference!
-
----
-
 ## ✨ Features
 
 - 📤 Upload PDF documents
